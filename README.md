@@ -106,7 +106,7 @@
 ## 6️⃣ Emergency Medical Summary
 
 **What it does:**  
-- One-page medical info  
+- Pages of medical info  
 - Share via OTP or QR  
 
 **Tech:**  
@@ -176,12 +176,7 @@
 **What you need:**  
 - OCR usage  
 - Rule-based warnings  
-- Simple text matching  
-
-**What you don’t:**  
-- Deep learning  
-- Model training  
-- Math-heavy ML  
+- Simple text matching
 
 ### 🌐 APIs
 
